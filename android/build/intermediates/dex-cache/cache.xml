@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/Pills/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/Pills-react-native-vector-icons-unspecified_8389845d529f6ba853b61908a45f68e077c18a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e0ccfc86c51a1b98356e5427d0389f7ab9959186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_0701740cd5d53d28f7c07ffa2fe1f272702d8632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_3fcfbc20bb34523657ced0a2813b8fe6a68b44b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_a4b62bdcdf54f8d2738e29a74048025f573d889d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_0f47c3c06a3a89cc953bf8ec98c3a8f248dc3162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/Pills/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0b2ff405a36cb175915ec00d8e3791a62b36f7ff">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/Pills-react-native-fs-unspecified_6034b33265bce2cdd349d4f515169047a6c17f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_465382b2f905048d9aa5370a992e99489305abd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4e5fffccc7d3513ceeb61f76f7463690bdd91cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/Pills/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2a86437588a831c33a46347cdfe7a514ca6a7d8c">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/Pills-react-native-spinkit-unspecified_e86bd956e5ca2c757f676c10ae2ea2a5f8af892b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_906c5379d8c714b93b5bcfaf2b0bfd2c9342ebd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ee9c6fd556e8d1647f00a2f25211dc2059e9f5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_cd8487ca3d15243955ba0503fbd04fc8fcae23f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_ecbaccd4e9b1329bae7c94e08f80b54a4b5fefa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_cb20048e68f4abda4dd5731bb9db84a3083d5819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_beb322131b26bc60ac254da26174ff0c5b965136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2a08d335b24f77612e75b7f57d91cc3b91d6d9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_8fbe1d644b3651cf49fd5e5e1337ae4800a2610d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_d30b2a143ed8e48a8017bf422d39d0fdbf56747f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/Pills/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/Pills-react-native-image-picker-unspecified_38730288044105f08ac2553afef90279f4b3d310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_0c42f72d6d993a37d2242c69ebfc890ae54568b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_136188cb32bf14bd304ec1b766b46acb28a779bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bf36cd0191f37a590ae0bf2c9b834569ccc6d5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_18fa43e5175fefea6c38e2d64d7d3f25c1b1c6d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_dc2d8556f5a20454d4f779f9661fa7c7b824a10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e225c59da30b50f5979d85fdc668d7c945ed8049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/macos/Documents/React Native Workspace/Pills/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_83225a8f682eea26b2fdaed1f3ea9cd5097e9653.jar" />
+    </item>
+
+</items>
